@@ -16,8 +16,10 @@ The score of the game is calculated by the number of guesses.
 Đây là dự án cá nhân của tôi sử dụng Java Servlet Api và Cơ sở dữ liệu là MySQL
 
 #### Cách chơi?
-Số lượng người chơi trong trò chơi có một số phạm vi và bạn có thể chỉnh sửa thành 0-100 hoặc 0-10000,.. (mặc định là 0-9). Và bạn có thể chỉnh sửa ở dòng 30 trên Controller->PlayGameController
-Bảng điểm hiển thị thứ hạng của 20 lượt chơi của mọi người được sắp xếp theo điểm từ thấp đến cao (Nếu điểm thấp hơn, bạn sẽ được xếp hạng cao hơn)
+Số lượng người chơi trong trò chơi có một số phạm vi và bạn có thể chỉnh sửa thành 0-100 hoặc 0-10000,.. (mặc định là 0-9). Và bạn có thể chỉnh sửa ở dòng 30 trên Controller->PlayGameController.
+
+Bảng điểm hiển thị thứ hạng của 20 lượt chơi của mọi người được sắp xếp theo điểm từ thấp đến cao (Nếu điểm thấp hơn, bạn sẽ được xếp hạng cao hơn).
+
 Điểm của trò chơi được tính theo số lượng người chơi đoán.
 
 ## Chúc may mắn.
